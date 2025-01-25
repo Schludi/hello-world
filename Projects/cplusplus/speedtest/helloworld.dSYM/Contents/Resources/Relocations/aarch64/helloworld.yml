@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/T7/vsc/Projects/cplusplus/speedtest/helloworld'
+relocations:     []
+...
